@@ -1,0 +1,11 @@
+email: morrocod@yahoo.com
+fullname: 'Morodan Gheorghe'
+title: Sysadmin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$3wFIvEV0I/DaJdG1HmoFgOLuGkarEv3aKzN4VCqBay0B/GiN4M0CW

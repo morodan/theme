@@ -1,0 +1,123 @@
+1477992039
+a:2:{s:7:"content";s:5814:"<div class="modular-row callout">
+ <h2>Some of Our Latest Work</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent justo ligula, interdum ut lobortis quis, interdum vitae metus. Proin fringilla metus non nulla cursus, sit amet rutrum est pretium.</p>
+     <div class="notebooks">
+                    <div class="notebook">
+                <a href="#portfolioModal13" class="portfolio-link" data-toggle="modal">
+                    <div class='screen'><div class="screen-content" style="background-image: url(/user/pages/01.home/_callout/work1.jpg)" ></div><div class="screen-content-hover"><i class="fa fa-plus-square"></i></div></div>
+                </a>
+                <div class='keyboard'></div>
+                <h4>First Item</h4>
+            </div>
+                    <div class="notebook">
+                <a href="#portfolioModal14" class="portfolio-link" data-toggle="modal">
+                    <div class='screen'><div class="screen-content" style="background-image: url(/user/pages/01.home/_callout/work2.jpg)" ></div><div class="screen-content-hover"><i class="fa fa-plus-square"></i></div></div>
+                </a>
+                <div class='keyboard'></div>
+                <h4>Second Item</h4>
+            </div>
+                    <div class="notebook">
+                <a href="#portfolioModal15" class="portfolio-link" data-toggle="modal">
+                    <div class='screen'><div class="screen-content" style="background-image: url(/user/pages/01.home/_callout/work3.jpg)" ></div><div class="screen-content-hover"><i class="fa fa-plus-square"></i></div></div>
+                </a>
+                <div class='keyboard'></div>
+                <h4>Third Item</h4>
+            </div>
+            </div>
+
+
+<div class="callout-line"></div>
+</div>
+
+    <div class="portfolio-modal modal" id="portfolioModal13" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal"><i class="fa fa-times"></i></div>
+            <div class="modal-body">
+                <h1>First Item</h1>
+                <a href="#">
+                    <img src="/user/pages/01.home/_callout/work1.jpg" class="img-responsive img-centered" alt="">
+                </a>
+                <p>Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.</p>
+                <ul class="client-details">
+                    <li>Client:
+                        <strong>
+                            <a href="#">Some Company</a>
+                        </strong>
+                    </li>
+                    <li>Date:
+                        <strong>
+                            April 2014
+                        </strong>
+                    </li>
+                    <li>Service:
+                        <strong>
+                            Web Development
+                        </strong>
+                    </li>
+                </ul>
+                <button type="button" class="button" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal" id="portfolioModal14" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal"><i class="fa fa-times"></i></div>
+            <div class="modal-body">
+                <h1>Second Item</h1>
+                <a href="#">
+                    <img src="/user/pages/01.home/_callout/work2.jpg" class="img-responsive img-centered" alt="">
+                </a>
+                <p>Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.</p>
+                <ul class="client-details">
+                    <li>Client:
+                        <strong>
+                            <a href="#">Some Company</a>
+                        </strong>
+                    </li>
+                    <li>Date:
+                        <strong>
+                            April 2014
+                        </strong>
+                    </li>
+                    <li>Service:
+                        <strong>
+                            Web Development
+                        </strong>
+                    </li>
+                </ul>
+                <button type="button" class="button" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal" id="portfolioModal15" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal"><i class="fa fa-times"></i></div>
+            <div class="modal-body">
+                <h1>Third Item</h1>
+                <a href="#">
+                    <img src="/user/pages/01.home/_callout/work3.jpg" class="img-responsive img-centered" alt="">
+                </a>
+                <p>Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.</p>
+                <ul class="client-details">
+                    <li>Client:
+                        <strong>
+                            <a href="#">Some Company</a>
+                        </strong>
+                    </li>
+                    <li>Date:
+                        <strong>
+                            April 2014
+                        </strong>
+                    </li>
+                    <li>Service:
+                        <strong>
+                            Web Development
+                        </strong>
+                    </li>
+                </ul>
+                <button type="button" class="button" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+            </div>
+        </div>
+    </div>
+";s:12:"content_meta";N;}
