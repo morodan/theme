@@ -1,8 +1,8 @@
-# Deliver Theme for Grav
+# Dolcetto Theme for Grav
 
-![Deliver](assets/readme_1.png)
+![Dolcetto](assets/readme_1.png)
 
-Deliver theme is a port of the [Deliver](http://freebiesbug.com/psd-freebies/deliver-free-psd-theme/) by [Michael Reimer](http://www.bestpsdfreebies.com/). Whether you’re a creative looking to show off your portfolio, or a business looking to promote your company, this theme is for you.
+Dolcetto theme is a port of the [Dolcetto](http://freebiesbug.com/psd-freebies/dolcetto-free-psd-theme/). Whether you’re a creative looking to show off your portfolio, or a business looking to promote your company, this theme is for you.
 
 # Features
 
@@ -21,59 +21,59 @@ Deliver theme is a port of the [Deliver](http://freebiesbug.com/psd-freebies/del
 
 # Installation
 
-Installing the Deliver theme can be done in one of two ways. Our GPM (Grav Package Manager) installation method enables you to quickly and easily install the theme with a simple terminal command, while the manual method enables you to do so via a zip file.
+Installing the Dolcetto theme can be done in one of two ways. Our GPM (Grav Package Manager) installation method enables you to quickly and easily install the theme with a simple terminal command, while the manual method enables you to do so via a zip file.
 
-The theme by itself is useful, but you may have an easier time getting up and running by installing a skeleton. The [Deliver Site Skeleton](https://github.com/getgrav/grav-skeleton-deliver-site) is a self-contained repository for a complete sites which includes: sample content, configuration, theme, and plugins.
+The theme by itself is useful, but you may have an easier time getting up and running by installing a skeleton. The [Dolcetto Site Skeleton](https://github.com/getgrav/grav-skeleton-dolcetto-site) is a self-contained repository for a complete sites which includes: sample content, configuration, theme, and plugins.
 
 ## GPM Installation (Preferred)
 
 The simplest way to install this theme is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm) through your system's Terminal (also called the command line).  From the root of your Grav install type:
 
-    bin/gpm install deliver
+    bin/gpm install dolcetto
 
-This will install the Deliver theme into your `/user/themes` directory within Grav. Its files can be found under `/your/site/grav/user/themes/deliver`.
+This will install the Dolcetto theme into your `/user/themes` directory within Grav. Its files can be found under `/your/site/grav/user/themes/dolcetto`.
 
 ## Manual Installation
 
-To install this theme, just download the zip version of this repository and unzip it under `/your/site/grav/user/themes`. Then, rename the folder to `deliver`. You can find these files either on [GitHub](https://github.com/getgrav/grav-theme-deliver) or via [GetGrav.org](http://getgrav.org/downloads/themes).
+To install this theme, just download the zip version of this repository and unzip it under `/your/site/grav/user/themes`. Then, rename the folder to `dolcetto`. You can find these files either on [GitHub](https://github.com/getgrav/grav-theme-dolcetto) or via [GetGrav.org](http://getgrav.org/downloads/themes).
 
 You should now have all the theme files under
 
-    /your/site/grav/user/themes/deliver
+    /your/site/grav/user/themes/dolcetto
 
 >> NOTE: This theme is a modular component for Grav which requires the [Grav](http://github.com/getgrav/grav), [Error](https://github.com/getgrav/grav-theme-error) and [Problems](https://github.com/getgrav/grav-plugin-problems) plugins.
 
 # Updating
 
-As development for the Deliver theme continues, new versions may become available that add additional features and functionality, improve compatibility with newer Grav releases, and generally provide a better user experience. Updating Deliver is easy, and can be done through Grav's GPM system, as well as manually.
+As development for the Dolcetto theme continues, new versions may become available that add additional features and functionality, improve compatibility with newer Grav releases, and generally provide a better user experience. Updating Dolcetto is easy, and can be done through Grav's GPM system, as well as manually.
 
 ## GPM Update (Preferred)
 
 The simplest way to update this theme is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm). You can do this with this by navigating to the root directory of your Grav install using your system's Terminal (also called command line) and typing the following:
 
-    bin/gpm update deliver
+    bin/gpm update dolcetto
 
-This command will check your Grav install to see if your Deliver theme is due for an update. If a newer release is found, you will be asked whether or not you wish to update. To continue, type `y` and hit enter. The theme will automatically update and clear Grav's cache.
+This command will check your Grav install to see if your Dolcetto theme is due for an update. If a newer release is found, you will be asked whether or not you wish to update. To continue, type `y` and hit enter. The theme will automatically update and clear Grav's cache.
 
 ## Manual Update
 
-Manually updating Deliver is pretty simple. Here is what you will need to do to get this done:
+Manually updating Dolcetto is pretty simple. Here is what you will need to do to get this done:
 
-* Delete the `your/site/user/themes/deliver` directory.
-* Download the new version of the Deliver theme from either [GitHub](https://github.com/getgrav/grav-theme-deliver) or [GetGrav.org](http://getgrav.org/downloads/themes).
-* Unzip the zip file in `your/site/user/themes` and rename the resulting folder to `deliver`.
+* Delete the `your/site/user/themes/dolcetto` directory.
+* Download the new version of the Dolcetto theme from either [GitHub](https://github.com/getgrav/grav-theme-dolcetto) or [GetGrav.org](http://getgrav.org/downloads/themes).
+* Unzip the zip file in `your/site/user/themes` and rename the resulting folder to `dolcetto`.
 * Clear the Grav cache. The simplest way to do this is by going to the root Grav directory in terminal and typing `bin/grav clear-cache`.
 
 > Note: Any changes you have made to any of the files listed under this directory will also be removed and replaced by the new set. Any files located elsewhere (for example a YAML settings file placed in `user/config/themes`) will remain intact.
 
 # Setup
 
-If you want to set Deliver as the default theme, you can do so by following these steps:
+If you want to set Dolcetto as the default theme, you can do so by following these steps:
 
 * Navigate to `/your/site/grav/user/config`.
 * Open the **system.yaml** file.
-* Change the `theme:` setting to `theme: deliver`.
+* Change the `theme:` setting to `theme: dolcetto`.
 * Save your changes.
 * Clear the Grav cache. The simplest way to do this is by going to the root Grav directory in Terminal and typing `bin/grav clear-cache`.
 
-Once this is done, you should be able to see the new theme on the frontend. Keep in mind any customizations made to the previous theme will not be reflected as all of the theme and templating information is now being pulled from the **deliver** folder.
+Once this is done, you should be able to see the new theme on the frontend. Keep in mind any customizations made to the previous theme will not be reflected as all of the theme and templating information is now being pulled from the **dolcetto** folder.

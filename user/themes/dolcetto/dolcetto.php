@@ -3,7 +3,7 @@ namespace Grav\Theme;
 
 use Grav\Common\Theme;
 
-class Deliver extends Theme
+class Dolcetto extends Theme
 {
 
 }
